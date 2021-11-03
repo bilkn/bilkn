@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bilkan. I have been interested in software for 3 years. Currently I am working as a Frontend developer.
+### Hi there 👋 I'm Bilkan. I have been interested in software for 3 years. Currently' I am working as a Frontend developer.
 
 [![Bilkn's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilkn)](https://github.com/bilkn/github-readme-stats)
 
