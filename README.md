@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning NestJS
+- 🔭 I’m currently working on React projects
+- 🌱 I’m currently learning Machine Learning
 - 👥 I’m looking to collaborate on full-stack projects
 - 💬 Ask me about anything you want to ask!
 
